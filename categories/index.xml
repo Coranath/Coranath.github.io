@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Levi&#39;s D&amp;D Wisdom</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Levi&#39;s D&amp;D Wisdom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tyranny of Dragons</title>
+      <link>/categories/tyranny-of-dragons/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tyranny-of-dragons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyranny of Dragons 2021</title>
+      <link>/categories/tyranny-of-dragons-2021/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tyranny-of-dragons-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

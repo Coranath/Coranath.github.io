@@ -1,0 +1,57 @@
+---
+title: Players
+author: Levi Moore
+date: '2021-05-09'
+slug: players
+categories:
+  - Tyranny of Dragons 2021
+tags: [Information]
+lastmod: '2021-05-09T17:14:03-07:00'
+layout: post
+type: post
+highlight: no
+---
+
+# For the 2021 Tyranny of Dragons we have 7 PCs, Miriam (*beautiful temptress!*), Ruby, Zia, Flame, Timothy (*likely not every game*), Isaiah, and Brighton! Brighton and Isaiah are new to the game!
+
+## Miriam:
+
+Miriam is playing a Tiefling Wizard named Noel Frostine (Fros-tīne)!
+
+![Noel Frostine](Noel.png)
+
+## Ruby:
+
+Ruby is playing a Half-Orc fighter named Arizira (Ari-Seera)!
+
+![Arizira](Arizira2.jpg)
+
+## Zia:
+
+Zia is playing a Wood-Elf Druid named Ynara (Yuh-nara)!
+
+![Ynara](Ynara.jpg)
+
+## Flame:
+
+Flame is playing a Human Paladin named Olphira!
+
+![Olphira](Olphira.png)
+
+## Timothy:
+
+Timothy may not be with use for every adventure but when he is, he will be playing a Djinn named Zephyril Umbondjinnsen!
+
+![Zephyril](Zephyril.jpg)
+
+## Isaiah:
+
+Isaiah will be playing a Human MonkLock (*Multiclassing as Monk and Warlock*) named Jorn (Yorn)!
+
+<!--![Jorn](Jorn.png)-->
+
+## Brighton:
+
+And finally, Brighton will be playing a Gnome Assassin named Kethic Stormgazer!
+
+![Kethic](Kethic.png)

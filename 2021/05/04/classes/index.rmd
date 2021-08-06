@@ -1,0 +1,18 @@
+---
+title: Classes
+author: 'Levi Moore'
+date: '2021-05-04'
+slug: classes
+categories: []
+tags: []
+lastmod: '2021-05-04T14:26:38-07:00'
+layout: post
+type: post
+highlight: no
+---
+
+<details>
+  <summary>Barbarian</summary>
+  
+  
+</details>
