@@ -1,0 +1,22 @@
+---
+title: The Fiends Pit
+author: 'Levi Moore'
+date: '2021-08-21'
+slug: the-fiends-pit
+categories:
+  - Tyranny of Dragons 2021
+tags:
+  - Adventure
+lastmod: '2021-08-21T18:10:35-07:00'
+layout: post
+type: post
+highlight: no
+---
+
+Welcome to the Fiends Pit! You've met Bodvonk!
+
+<details><summary>Room 1:</summary>
+
+You enter a dark slate gray room, there is only one exit and next to it is this engraving: 
+
+```θΩΣ θΑΤ ΕΝΤΕΡ ΣΠΙΚ ΕΡΥΔΑΙΤ```
