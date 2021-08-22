@@ -4,7 +4,7 @@ author: Levi Moore
 date: '2021-05-19'
 slug: oyvaggiton
 categories:
-  - Tyranny of Dragons
+  - Tyranny of Dragons 2021
 tags: []
 lastmod: '2021-05-19T13:57:10-07:00'
 layout: post
